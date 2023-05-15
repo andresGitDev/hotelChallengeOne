@@ -28,7 +28,8 @@ Link: https://github.com/andresGitDev/hotelChallengeOne/blob/master/database/hot
 
 ## Estructura del proyecto git:
 Link: https://github.com/andresGitDev/hotelChallengeOne/tree/master/src/main/java/org/andres/hotel
-![Screenshot](https://user-images.githubusercontent.com/28877424/235013495-6146bca1-8c1b-43ff-930f-c69a50f05ae4.png)
+<img width="1078" alt="image" src="https://github.com/andresGitDev/hotelChallengeOne/assets/52011441/1de1d740-8be4-4c30-acee-676ff35d1e8d">
+
 
 ## Commits realizados:
 Link: https://github.com/andresGitDev/hotelChallengeOne
