@@ -1,5 +1,8 @@
 # Challenge ONE | Java | Back-end | Hotel Alura
 
+<img width="683" alt="image" src="https://github.com/andresGitDev/hotelChallengeOne/assets/52011441/f38156d3-75e3-420c-b71a-af596f2a2b0f">
+
+
 ## El desafío presenta los siguientes retos:
 Se facilita la interfaz gráfica y el diagrama de base de datos del proyecto hotel, por parte de Alura.
 * Se solicita implementar la parte lógica para que funcione el proyecto.
@@ -21,7 +24,7 @@ Link: https://github.com/andresGitDev/hotelChallengeOne/blob/master/database/hot
 ![169529338-09a4d4c2-1b5a-41dc-b305-38498ebc29a8](https://user-images.githubusercontent.com/28877424/235012931-b39efa85-1a4c-4c6d-b002-a9c494867f82.png)
 
 ## Estructura del proyecto:
-![Screenshot](https://user-images.githubusercontent.com/28877424/235013405-cb2ae7c4-97bc-4dd6-ac79-bdfc771a0c72.png)
+<img width="234" alt="image" src="https://github.com/andresGitDev/hotelChallengeOne/assets/52011441/5b028d6e-21a3-4c83-ae4b-066b4e6d0410">
 
 ## Estructura del proyecto git:
 Link: https://github.com/andresGitDev/hotelChallengeOne/tree/master/src/main/java/org/andres/hotel
